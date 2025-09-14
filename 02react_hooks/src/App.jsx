@@ -8,6 +8,10 @@ function App() {
 
   const addValue = () =>{
    counter += 1;
+   counter += 1;
+   counter += 1;
+   counter += 1;
+   counter += 1;git
    setCounter(counter)
    console.log("clicked",counter);
   }
