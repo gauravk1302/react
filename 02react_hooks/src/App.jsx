@@ -11,7 +11,7 @@ function App() {
    counter += 1;
    counter += 1;
    counter += 1;
-   counter += 1;git
+   counter += 1;
    setCounter(counter)
    console.log("clicked",counter);
   }
